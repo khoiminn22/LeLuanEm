@@ -1,0 +1,26 @@
+Tao trên github 1 repo moi, chuan bi link
+
+Tao 1 thu muc, tao file
+
+CMD --> CD vao thu muc chua file
+nhap lenh:
+
+git init
+git remote add origin "URL của repo vừa tạo"
+git add --all
+
+git commit -m "ghi gì thi gi"
+
+git push -u origin master
+
+Quay lai github cua repo va vao setting
+
+Pages --> Soure --> Deploy from a branch
+Branch --> master and folder --> root them Save
+
+Will have a link if not
+
+
+Action --> General --> Allow ellyx13, and select non-ellyx13, actions and reusable....
+  --> Allow actions created by github
+  --> Save
